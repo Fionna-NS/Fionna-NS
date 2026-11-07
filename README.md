@@ -12,7 +12,7 @@
 
 I am a Data Analyst and AI-driven Creative Technologist with a strong interest in leveraging data, technology, and innovation to solve real-world problems. I specialize in transforming data into actionable insights while exploring artificial intelligence, digital solutions, and emerging technologies.  
 My interests span data analytics, AI innovation, software development, and digital branding. I am committed to continuous learning, building impactful solutions, and using technology to create meaningful value.  
-**Driven by data. Powered by innovation. Focused on the future.
+Driven by data. Powered by innovation. Focused on the future.
 
 🌱 &nbsp;I'm currently learning **DATA ANALYST**  
 😄 &nbsp;Pronouns: **she/her**  
